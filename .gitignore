@@ -1,4 +1,4 @@
 dist
 build
 *.egg-info
-tests/tmp/*
+tests/tmp/Watch*
