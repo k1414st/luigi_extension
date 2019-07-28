@@ -1,4 +1,4 @@
 dist
 build
 *.egg-info
-tmp/*
+tests/tmp/*
